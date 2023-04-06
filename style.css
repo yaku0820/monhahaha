@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 50%;
+    height: 60vh;
+    background-color: aqua;
+    float: left;
+}
+.container .item{
+    width: 50%;
+    height: 100%;
+    background-color: black;
+    float: left;
+}
+.container .item .deer{
+    width: 100%;
+    height: 50%;
+    background-color: blue;
+}
+
+
+
+
+.container .item .deer .zuun{
+    width: 50%;
+    height: 100%;
+    background-color: brown;
+    float: left;
+}
+.container .item .deer .baruun{
+    width: 50%;
+    height: 100%;
+    background-color: rgb(227, 29, 29);
+    float: left;
+}
+.container .item .door{
+    width: 100%;
+    height: 50%;
+    background-color: yellow;
+}
+.container .item .door .top{
+    width: 100%;
+    height: 50%;
+    background-color: blueviolet;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container .item .door .bottom{
+    width: 100%;
+    height: 50%;
+    background-color: rgb(27, 189, 16);
+}
+.container .item-1{
+    width: 50%;
+    height: 100%;
+    background-color: tomato;
+    float: left;
+}
+.container .item-1 .left{
+    width: 50%;
+    height: 100%;
+    background-color: aqua;
+    float: left;
+}
+.container .item-1 .right{
+    width: 50%;
+    height: 100%;
+    background-color: black;
+    float: left;
+}
+
+
+
+
+
+
+
+
+
+.container .item-1 .l-l{
+    width: 50%;
+    height: 100%;
+    background-color: blue;
+    float: left;
+}
+
+
+
+
+.container .item-1 .r-r{
+    width: 50%;
+    height: 100%;
+    background-color: rgb(213, 83, 23);
+    float: left;
+}
+.container .item-1 .right .gg{
+    width: 100%;
+    height: 50%;
+    background-color: green;
+}
+.container .item-1 .right .ll{
+    width: 100%;
+    height: 50%;
+    background-color: rgb(31, 210, 204);
+}
